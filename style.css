@@ -1,0 +1,113 @@
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav
+{
+    margin-left: 70%;
+​
+}
+.navbar-nav li a
+{
+    color: white;
+}
+.navbar-nav li a:hover
+{
+    color: blue;
+}
+.navbar-brand h4
+{
+    color: white;
+    margin-left: 50%;
+}
+.navbar-brand h4:hover
+{
+    color: blue;
+}
+.BANNER img
+{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.BANNER-1
+{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    text-align: center;
+    color: black;
+}
+.BANNER-1
+{
+    font-weight: 200;
+    font-style: bolder;
+}
+.BANNER-1 h3
+{
+    color: orangered;
+    font-style: italic;
+}
+.BANNER-1 h4:hover
+{
+    opacity: 0.90;
+    transform: scale(0.90);
+    cursor: pointer;
+    color: blue;
+}
+.BANNER-1 h1:hover
+{
+    opacity: 1.30;
+    transform: scale(1.30);
+    cursor: pointer;
+    color: navy;
+}
+.BANNER-1 h3:hover
+{
+    opacity: 0.80;
+    transform: scale(0.80);
+    cursor: pointer;
+}
+.About img
+{
+    height: 250px;
+    width: 350px;
+}
+.lastsection
+{
+    font-size: 60px;
+    margin-top: 25%;
+}
+.container-1 a i
+{
+    font-size: 25px;
+    gap: 10px;
+    color: black;
+}
+​
+footer div p
+{
+    margin-top: 25%;
+}
+#mypart
+{
+    margin-top: 20%;
+}
+#Aboutme
+{
+    margin-top: 15%;
+}
+.last-part li a
+{
+    color: black;
+    font-size: 25px;
+}
+.last-part li a i:hover
+{
+    color: blue;
+}
